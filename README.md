@@ -135,5 +135,11 @@ CrossTable(testData$Species == predict(dtModel, testData))
 print("This C50 algorithm is also performing well in this IRIS data and the percentage of cases were correctly classified is: 88.89%")
 
 
+#Outcome:
 
+SVM accuracy: 97.33%
+
+K Means accuracy: 88.67%
+
+C50 accuracy: 88.89% 
 
